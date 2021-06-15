@@ -1,2 +1,2 @@
 # Analysis-Report
-analysis reports, projects in R
+analysis reports, projects
